@@ -1,0 +1,17 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+
+.l_elevitionjp {
+	border-radius: 5px;
+	background-color: rgba(256,256,256,0.9);
+	padding: 5px;
+}
