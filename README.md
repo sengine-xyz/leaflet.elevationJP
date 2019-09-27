@@ -10,7 +10,7 @@ Depend on jquery underscore.js.
 
 ##Usage
 
-load the ElevitionJP.js in your page.
+load the src/ElevitionJP.js in your page.
 
 ```
 	var map = L.map('map', {
