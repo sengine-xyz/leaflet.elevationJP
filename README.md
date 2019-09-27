@@ -36,3 +36,7 @@ load the src/ElevitionJP.js in your page.
 
 ```
 
+
+日本語の解説はこちらのブログ
+<a href="https://sengine.xyz/2019/09/27/ElevationJP/" target="_blank">国土地理院標高APIを利用したleafletマウスポイント標高プラグインの実装 | sengine</a>
+をご確認ください。
