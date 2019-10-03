@@ -8,7 +8,7 @@ Here is the [demo](https://sengine.xyz/static/ElevitionJP/demo.html) site.
 
 Depend on jquery underscore.js.
 
-##Usage
+## Usage
 
 load the src/ElevitionJP.js in your page.
 
