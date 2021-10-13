@@ -2,7 +2,7 @@
 
 A simple leaflet plugin for mouse point elevation.
 Only work in japan area.
-Based on https://maps.gsi.go.jp/development/api.html.
+Based on https://maps.gsi.go.jp/development/elevation_s.html.
 
 Here is the [demo](https://sengine.xyz/static/ElevitionJP/demo.html) site.
 
